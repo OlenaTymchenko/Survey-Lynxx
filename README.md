@@ -1,6 +1,6 @@
 # Survey-Lynxx
 
-## To run the surver:
+## To run the server:
 ```cd server && npm start```
 
 You will receive a message: 'Express server is listening on port 5007'
