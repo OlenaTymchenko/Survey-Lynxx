@@ -1,7 +1,7 @@
 # Survey-Lynxx
 
 ## To run the surver:
->cd server && npm start
+cd server && npm start
 
 You will receive a message: 'Express server is listening on port 5007'
 
@@ -14,3 +14,5 @@ This is a production version of the app running a React build folder with Expres
 Express index.js receives an API call from React to save the user responces in json format with unique date and time name. 
 
 React calls Express api/handle from src/routes/style-pages/survey/component.js in const triggerBackendUpdate function. This can be changed to a database call. 
+
+![This is an image](https://www.freepik.com/premium-vector/feedback-emoji-rating-with-check-box-frame-checkmark-icon-happy-neutral-sad-wrong-emoticon_23411861.htm)
