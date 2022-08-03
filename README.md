@@ -1,9 +1,9 @@
 # Survey-Lynxx
 
 ## To run the surver:
-cd server && npm start
+###### cd server && npm start
 
-You will receive a message: 'Express server is listening on port 5007'
+###### You will receive a message: 'Express server is listening on port 5007'
 
 
 Express serves static React files so the application is using one port.
