@@ -19,4 +19,4 @@ Express index.js receives an API call from React to save the user responces in j
 
 React calls Express api/handle from *src/routes/style-pages/survey/component.js* in triggerBackendUpdate function. This can be changed to a database call. 
 
-:slightly_smiling_face:	:neutral_face: :upside_down_face:
+:slightly_smiling_face:	:smiley: :upside_down_face:
