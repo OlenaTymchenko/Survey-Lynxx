@@ -15,4 +15,3 @@ Express index.js receives an API call from React to save the user responces in j
 
 React calls Express api/handle from src/routes/style-pages/survey/component.js in const triggerBackendUpdate function. This can be changed to a database call. 
 
-![This is an image](https://www.freepik.com/premium-vector/feedback-emoji-rating-with-check-box-frame-checkmark-icon-happy-neutral-sad-wrong-emoticon_23411861.htm)
